@@ -3,8 +3,8 @@
 	// Variable starts with $, 
 	//string has to use quotation marks
 	// line ends with semicolon
-	$first_name = "Romil";
-	$last_name = "Rõbtšenkov";
+	$first_name = "Dmitry";
+	$last_name = "Brezhnev";
 	
 	// show code to browser
 	// for adding up numbers + sign
