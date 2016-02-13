@@ -3,7 +3,7 @@
 	// Variable starts with $, 
 	//string has to use quotation marks
 	// line ends with semicolon
-	$first_name = "Dmitry";
+	$first_name = "Dima";
 	$last_name = "Brezhnev";
 	
 	// show code to browser
